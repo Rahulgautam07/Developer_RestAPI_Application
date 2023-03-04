@@ -1,0 +1,34 @@
+Connect with the Database:
+
+http://localhost:8080/h2-console
+
+Please check the attached screenshot for db 
+
+-----------------------------
+Url for Developer and Team data:-
+
+http://localhost:8080/developer
+
+----------------------------
+
+RequestPacket-
+
+----------------------------
+   "developer":[
+      {
+         "name":"Rahul Gautam",
+         "phoneNumber":"8171623329"
+      }
+   ],
+   "teamName":"Dev1"
+}
+
+---------------------------
+URL For SMS alert-
+
+http://localhost:8080/1/alert
+
+---------------------------
+Request  payload-
+
+{“phone_number”:  “xxxxxxxxxx”} 
